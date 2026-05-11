@@ -3,7 +3,7 @@
 ## 🚀 Descargar
 https://merca-plus-ai-3da63ffa.base44.app
 
-![Código QR](./codigoqr.png)
+<img src="./codigoqr.png" width="200" alt="Código QR">
 
 ## 📦 Instalación
 1. Descargar APK
