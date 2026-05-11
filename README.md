@@ -2,6 +2,9 @@
 
 ## 🚀 Descargar
 https://merca-plus-ai-3da63ffa.base44.app
+
+![Código QR](./codigoqr.png)
+
 ## 📦 Instalación
 1. Descargar APK
 2. Activar "instalar apps desconocidas"
